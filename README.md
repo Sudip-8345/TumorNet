@@ -43,10 +43,7 @@ The model uses **transfer learning** with the following architecture:
 ## 📊 Training Results
 
 ### Accuracy and Loss Curves
-![Training History](images/training_history.png)
-
-### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+<img width="792" height="393" alt="training" src="https://github.com/user-attachments/assets/5a5b5c06-74ec-4b8b-8459-083619bdd1d1" />
 
 ### Performance Metrics
 ```
@@ -63,7 +60,8 @@ weighted avg       0.94      0.92      0.92      1311
 ```
 
 ### ROC–AUC Curves
-![ROC Curve](images/roc_curve.png)
+<img width="846" height="701" alt="roc-auc" src="https://github.com/user-attachments/assets/0ee862b1-2ede-4260-9051-30132fea02b7" />
+
 
 **AUC Scores:**
 - Class 0 (Glioma): **0.99**
@@ -74,7 +72,7 @@ weighted avg       0.94      0.92      0.92      1311
 ---
 
 ## 🔍 Prediction Example
-![Prediction Example](images/prediction_example.png)  
+<img width="420" height="411" alt="brain" src="https://github.com/user-attachments/assets/42566d77-5d94-465c-ba76-7eef64d550f1" />
 
 **Output:**  
 `Tumor: Pituitary (Confidence: 99.97%)`
